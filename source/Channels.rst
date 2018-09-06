@@ -10,5 +10,5 @@ Channel factory
 Binding values
 ^^^^^^^^^^^^^^^^
 
-Observing events
+Observing events2
 ^^^^^^^^^^^^^^^^
